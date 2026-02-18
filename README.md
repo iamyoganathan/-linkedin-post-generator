@@ -2,6 +2,8 @@
 
 An AI-powered web application to generate engaging LinkedIn posts using Groq API and Streamlit.
 
+**🌐 Live Demo:** [https://linkedin-post-generator-eofqlp2owtodcchr6rgs4m.streamlit.app/](https://linkedin-post-generator-eofqlp2owtodcchr6rgs4m.streamlit.app/)
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Groq](https://img.shields.io/badge/Groq-API-orange)](https://groq.com)
@@ -46,8 +48,6 @@ An AI-powered web application to generate engaging LinkedIn posts using Groq API
 8. Click **"Deploy"**
 
 **Your app will be live in 2 minutes!** 🎉
-
-URL: `https://your-app-name.streamlit.app`
 
 ---
 
